@@ -122,6 +122,36 @@ h3 { font-size: 1.4rem; }
 .beer-style { color: var(--text-soft); }
 .beer-vibe { margin-top: 0.5rem; }
 
+.beer-card-main {
+  display: grid;
+  grid-template-columns: 1fr 110px;
+  gap: 1rem;
+  align-items: center;
+}
+
+.beer-card-text h3 {
+  margin-top: 0;
+  margin-bottom: 0.25rem;
+}
+
+.beer-card-thumb {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.beer-card-thumb img {
+  width: 100%;
+  max-width: 90px;
+  height: auto;
+  object-fit: contain;
+  border-radius: 12px;
+}
+
+.beer-card-footer {
+  margin-top: 1rem;
+}
+
 .footer-inner {
   display: flex;
   justify-content: space-between;
