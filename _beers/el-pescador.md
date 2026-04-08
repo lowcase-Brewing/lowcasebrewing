@@ -11,7 +11,6 @@ image: /assets/images/el-pescador-pils.png
 permalink: /beers/el-pescador/
 ---
 
-A smooth, refreshing lager built for long days, warm air, and nowhere to be.
+Crisp and clean, El Pescador is made for early morning fishing days on the harbor.
 
-Brewed with a light malt backbone and a touch of citrus, Beach Cruiser is all about
-balance — clean, crisp, and endlessly drinkable.
+Brewed with a Pilsner malt with a light herbal character and bright finish, this beer is a perfect way to refresh on long days on the water.

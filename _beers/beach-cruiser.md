@@ -4,7 +4,7 @@ title: Beach Cruiser
 style: Mexican Lager
 series: Motion
 abv: 4.8%
-ibu: 18
+ibu: 15
 vibe: Crisp, citrus, easy riding
 color: Pale gold
 image: /assets/images/cruda-cruiser-lime-lager.png
