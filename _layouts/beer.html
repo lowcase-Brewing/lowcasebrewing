@@ -13,7 +13,9 @@ layout: nil
     <section class="beer-shell">
       <article class="beer-showcase">
         <div class="beer-showcase__image">
-          <img src="{{ page.image | relative_url }}" alt="{{ page.title }}">
+          <div class="beer-showcase__image-frame">
+            <img src="{{ page.image | relative_url }}" alt="{{ page.title }}">
+          </div>
         </div>
 
         <div class="beer-showcase__content">
