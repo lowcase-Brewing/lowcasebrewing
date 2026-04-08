@@ -8,6 +8,7 @@ ibu: 18
 vibe: Crisp, citrus, easy riding
 color: Pale gold
 image: /assets/images/cruda-cruiser-lime-lager.png
+permalink: /beers/beach-cruiser
 ---
 
 A smooth, refreshing lager built for long days, warm air, and nowhere to be.
